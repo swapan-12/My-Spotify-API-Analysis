@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri
+Champagne,MoonChild Era,Diljit Dosanjh,2021-08-22,182000,63,0.252,0.757,0.588,0.0,0.0701,-6.383,0.12,84.968,0.344,4,10,0,spotify:track:7fYE7BT9Na8XpALQwuhIwX
+Adore,Adore,Amrinder Gill,2022-02-14,130000,60,0.104,0.746,0.513,0.0,0.109,-10.313,0.21,147.984,0.787,4,9,0,spotify:track:4vz4lZFsbgVB7oZG126OyM
+Parshawan,Parshawan,Harnoor,2021-06-10,168000,70,0.559,0.799,0.44,0.0,0.105,-7.422,0.061,90.006,0.43,4,1,0,spotify:track:6IaHIJYxIG8xbosaRr25AC
+Jatta,8 Chances,Harnoor,2021-12-20,189429,63,0.183,0.643,0.449,0.0,0.141,-9.593,0.211,77.254,0.463,4,9,0,spotify:track:11lHthXPloRp8YMBx69ite
+She Got Me,8 Chances,Harnoor,2021-12-20,159386,54,0.181,0.71,0.468,0.0,0.292,-9.261,0.0398,90.006,0.217,4,11,0,spotify:track:07N2Ax8PIL2rHndhsW97uT
+Kina Chir,The Lifestyle,The PropheC,2016-12-29,216026,72,0.0955,0.622,0.431,0.0,0.088,-8.26,0.0293,117.919,0.365,4,11,0,spotify:track:6XPmY4hIb1RGRyNuq0UBsl
+Tu Hi Ah,Tu Hi Ah,The PropheC,2019-09-05,191280,57,0.165,0.701,0.498,6.93e-06,0.143,-9.941,0.0407,74.998,0.588,4,7,0,spotify:track:63qRT3ZJfnsjWHVUhhbAZ3
+DESIRES,HIDDEN GEMS,Various Artists,2021-11-21,168000,76,0.365,0.863,0.387,0.00238,0.06,-10.057,0.256,100.013,0.39,4,5,0,spotify:track:5pcmtf1lwrMqmAWWm248fY
+Sohne Lagde,Sohne Lagde,Sidhu Moose Wala,2019-07-15,209453,64,0.354,0.589,0.716,0.0,0.109,-5.651,0.145,84.384,0.327,4,2,0,spotify:track:0ydyIEJ02X3kcZ6Bop6sHO
+Tu Hi Das De,Tu Hi Das De,Tedi Pagg,2019-12-17,172831,68,0.233,0.719,0.505,0.0,0.207,-9.287,0.0667,124.803,0.362,4,7,1,spotify:track:65hNUaQSau704UtsRZVhKy
+Haan,Haan,Mickey Singh,2022-03-01,154909,52,0.0153,0.526,0.598,0.0,0.115,-6.017,0.17,81.564,0.463,4,9,0,spotify:track:2bLqhfrvCa7ZfExesQuePM
+Jannat,Sufna,B Praak,2020-02-10,220500,55,0.701,0.612,0.67,0.0,0.309,-3.268,0.0745,79.713,0.613,4,8,0,spotify:track:6yzxDlblhlYBepcieip20S
+Udd Gaya,Lekh (Original Motion Picture Soundtrack),B Praak,2022-03-25,243946,49,0.259,0.65,0.721,0.0,0.184,-2.879,0.0314,100.194,0.267,4,5,0,spotify:track:4fn3R0d6DgzJeYYrwON8OA
+Distance Love,Distance Love,Grewal,2021-10-08,210681,68,0.421,0.743,0.562,0.0,0.1,-5.846,0.0424,87.869,0.31,4,0,0,spotify:track:55nRhkhe7ckZhazYrv6ZOX
+"Koi Aaye Na Rabba (From ""Daaka"")","Koi Aaye Na Rabba (From ""Daaka"")",Rochak Kohli,2019-10-14,242880,51,0.765,0.411,0.6,0.000886,0.114,-6.623,0.0381,80.396,0.549,4,7,0,spotify:track:1p8mTL4mMVXxJ29g8V36HX
+Summer Luv,Summer Luv,Mickey Singh,2019-06-07,181794,50,0.0378,0.472,0.578,0.0,0.278,-7.241,0.0993,80.336,0.347,4,11,0,spotify:track:1vwHEMn3RJBteolX643U9a
+Bijlee Bijlee,Bijlee Bijlee,Harrdy Sandhu,2021-10-30,168450,75,0.269,0.795,0.67,0.0,0.0733,-5.313,0.143,100.004,0.643,4,1,0,spotify:track:1iZLpuGMr4tn1F5bZu32Kb
+Waja,Waja,The PropheC,2022-02-03,180334,55,0.113,0.83,0.333,1.47e-06,0.0951,-8.679,0.0516,124.001,0.674,4,4,0,spotify:track:1xrYjUmXmbJRCNuTGqBmS2
+Close,Solace,The PropheC,2021-01-14,219232,54,0.185,0.657,0.52,0.0,0.148,-5.614,0.138,82.897,0.446,4,8,1,spotify:track:1Cr3MKNHoORQfS8R45mRaO
+Waja,Waja,The PropheC,2022-02-03,180334,55,0.113,0.83,0.333,1.47e-06,0.0951,-8.679,0.0516,124.001,0.674,4,4,0,spotify:track:1xrYjUmXmbJRCNuTGqBmS2
+To The Stars,To The Stars,The PropheC,2021-09-17,191829,57,0.0214,0.532,0.511,0.0134,0.302,-6.793,0.0331,176.028,0.285,4,0,0,spotify:track:5M0cLeF5Pqw1zCUYLt7tHU
+Feels Like,Feels Like,Mickey Singh,2022-02-15,175578,53,0.171,0.751,0.797,0.0,0.092,-5.158,0.109,95.028,0.796,4,1,0,spotify:track:6biCHmWzRQYIbQPLZNyUvl
+Tere Jeya Hor Disda (LoFi),Tere Jeya Hor Disda (LoFi),Madhur Sharma,2021-10-07,117421,68,0.794,0.363,0.469,0.0176,0.106,-8.404,0.0528,171.988,0.102,4,7,0,spotify:track:3dBlOhEY4xdQB2Ge4NzULx
+Proper Patola,Namaste England (Original Motion Picture Soundtrack),Mannan Shaah,2018-10-03,178604,69,0.485,0.77,0.824,0.0,0.318,-6.491,0.0851,172.006,0.49,4,1,0,spotify:track:39ujbBjTwwqUFySaCYDMMT
+Saada Pyaar,Not by Chance,AP Dhillon,2020-12-23,213626,69,0.0391,0.743,0.655,0.0,0.118,-5.228,0.0866,91.004,0.164,4,7,0,spotify:track:5gSVKG0R4xc8qtDIoyDNy8
+"Malang (Title Track) [From ""Malang - Unleash The Madness""]","Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,2020-01-16,287374,66,0.329,0.384,0.728,1.85e-05,0.329,-6.503,0.0623,156.396,0.311,4,7,0,spotify:track:25MPTnqXQB1H6OkwSYUXWx
+Dil Maang Raha Hai,"Dil Maang Raha Hai (From ""Ghost"")",Yasser Desai,2019-09-25,193333,66,0.341,0.636,0.726,0.00727,0.105,-8.205,0.0456,162.035,0.542,4,10,0,spotify:track:7h24KIgBhiyzbYnxsGzevk
+Humnava Mere,Humnava Mere,Jubin Nautiyal,2018-05-23,328992,72,0.47,0.401,0.553,2.96e-06,0.124,-8.263,0.0337,79.144,0.364,4,5,0,spotify:track:0loZn1c5heXie7OAtvK6nH
+Bewafa Tera Masoom Chehra,Bewafa Tera Masoom Chehra,Rochak Kohli,2020-11-16,242149,60,0.457,0.579,0.83,0.0,0.159,-4.859,0.0523,166.572,0.758,3,6,0,spotify:track:2plj6f8TqOF0YNuHd2VzJD
+"Meri Zindagi Hai Tu (From ""Satyameva Jayate 2"")","Meri Zindagi Hai Tu (From ""Satyameva Jayate 2"")",Rochak Kohli,2021-10-28,284233,69,0.38,0.649,0.86,0.000547,0.147,-4.07,0.0359,96.025,0.585,4,6,0,spotify:track:6IWZKBeAkeCzaYNE8SmedK
+ELEVATED,ELEVATED,Shubh,2022-03-12,200658,58,0.212,0.831,0.533,3.25e-05,0.306,-5.777,0.0897,93.034,0.604,4,6,0,spotify:track:6btas8Eignhw8yKp4VJvGi
+WE ROLLIN,WE ROLLIN,Shubh,2021-09-17,199205,62,0.262,0.816,0.503,7.16e-06,0.104,-9.112,0.197,85.003,0.278,4,4,0,spotify:track:605r6rtj7kBlJwZWmYx1Dt
+NO LOVE,NO LOVE,Shubh,2022-02-26,170387,68,0.243,0.771,0.486,0.0,0.191,-8.952,0.0393,137.058,0.733,4,4,0,spotify:track:5B4YQN1FCuADJ0o4phAtwC
+OFFSHORE,OFFSHORE,Shubh,2021-11-22,172054,56,0.0487,0.831,0.345,0.00161,0.112,-13.452,0.209,80.015,0.658,4,5,0,spotify:track:5EIQt0H1ZqObVYUrBLbN86
+Dil Chahte Ho,Dil Chahte Ho,Jubin Nautiyal,2020-08-27,252771,53,0.812,0.3,0.399,0.0,0.0978,-6.951,0.0341,78.755,0.225,4,7,1,spotify:track:60dbY1IYizdQQVhC4QTyEc
+OFFSHORE,OFFSHORE,Shubh,2021-11-22,172054,56,0.0487,0.831,0.345,0.00161,0.112,-13.452,0.209,80.015,0.658,4,5,0,spotify:track:5EIQt0H1ZqObVYUrBLbN86
+Gal Ni Bani,Gal Ni Bani,Jordan Sandhu,2022-03-16,187605,49,0.34,0.784,0.608,0.0,0.107,-4.691,0.128,141.862,0.464,4,0,1,spotify:track:14yIcx0HA4RTKkndUvHlda
+Big Men (Chapter 2),Big Men (Chapter 2),R Nait,2022-05-13,224965,55,0.433,0.441,0.653,0.0,0.126,-6.254,0.212,83.1,0.242,4,3,0,spotify:track:3i0uUsZFO2eJfc4uULSWLy
+Gall Khaas,Gall Khaas,Zehr Vibe,2022-03-02,160200,62,0.0742,0.866,0.707,0.0,0.0852,-7.34,0.132,99.997,0.294,4,9,0,spotify:track:7J5V3MlzpfSF6jEchkfxB6
+Judaa,Judda,Amrinder Gill,2011-11-05,329720,47,0.0405,0.686,0.818,0.0,0.304,-3.736,0.0603,129.88,0.425,4,8,0,spotify:track:41wckxpAZHCVrz6F8qXfdf
+Dil Tod Ke,Dil Tod Ke,Rochak Kohli,2020-07-15,239161,58,0.348,0.484,0.658,0.0,0.0995,-5.657,0.219,85.008,0.654,4,10,0,spotify:track:71OoohX1NBG4ez6eijgaWE
+Bewafaai,Bewafaai,B Praak,2017-09-16,322285,28,0.468,0.575,0.745,0.0,0.0792,-2.841,0.0421,139.953,0.549,4,1,1,spotify:track:22UgzQKONZ6mNA9hJxmWjR
+Rabb Wangu,Rabb Wangu,Desi Boys,2021-09-30,190932,28,0.309,0.664,0.595,0.0,0.318,-6.05,0.0329,91.942,0.676,4,7,1,spotify:track:65JDoHWrcYDXLI81ZwtTdo
+Wah Kya Nazare (feat. Gaby Fuego),8 Chances,Harnoor,2021-12-20,176018,52,0.127,0.677,0.468,0.0,0.122,-7.866,0.24,125.829,0.518,4,9,1,spotify:track:4wbedCVVHRH1Gc0YuCoNj6
+Rooh,Rooh,Tej Gill,2016-04-28,208577,61,0.0986,0.584,0.787,0.0,0.0706,-4.247,0.0308,90.072,0.481,4,1,0,spotify:track:1QbftLk2fmvtjmQ6DTvbAB
+Schedule,Schedule,Tegi Pannu,2021-08-20,148376,72,0.518,0.826,0.581,2.49e-06,0.0703,-6.425,0.21,92.434,0.787,4,3,0,spotify:track:5eGsHi6RcL33gb9k89UYaB
+Ma Belle,Ma Belle,AP Dhillon,2021-07-16,160824,71,0.0424,0.908,0.314,4.15e-05,0.0727,-9.614,0.116,97.011,0.244,4,0,1,spotify:track:3D0pmiK3zyF9PudyJ8mkor
+Nakhre,Nakhre,Zack Knight,2015-05-18,194676,68,0.255,0.524,0.632,0.0,0.277,-7.285,0.0785,169.989,0.416,4,10,0,spotify:track:7tpRgru0h8B4eCvdBegLTA
+Judaiya,En Route,Ezu,2021-10-14,204751,46,0.691,0.719,0.469,0.0,0.131,-7.945,0.0408,74.978,0.574,4,7,0,spotify:track:5XCrhMVLFj2i8p6zifZwWh
+Aaja We Mahiya,Aaja We Mahiya,Imran Khan,2009-07-27,232066,68,0.131,0.639,0.594,0.0,0.119,-6.497,0.0347,80.034,0.378,4,10,1,spotify:track:75Ak0cit8hV604Wjlq1gf2
+Insane,Insane,Various Artists,2021-04-16,206060,78,0.416,0.796,0.572,2.55e-05,0.0975,-7.03,0.0545,98.967,0.304,4,8,0,spotify:track:3UhmuWcFaLS3AO3kI9ynQ2
+Chances,Not by Chance,AP Dhillon,2020-12-23,172235,62,0.195,0.621,0.705,4.19e-06,0.292,-5.604,0.222,85.036,0.437,4,6,0,spotify:track:3yiEaNgKJWN3gCfHfB8Q1u
+Feels,Feels,AP Dhillon,2020-02-14,151304,62,0.108,0.71,0.698,0.0,0.098,-6.489,0.0368,91.976,0.0823,4,7,0,spotify:track:6CzMKOYzhBXzZszsy4yFIG
+Into You,Into You,Tegi Pannu,2021-07-02,174508,64,0.309,0.72,0.711,0.0,0.492,-6.926,0.0457,148.223,0.713,4,1,0,spotify:track:455OjhLhU9JCNYKKoUOFwr
+Excuses,Excuses,AP Dhillon,2020-07-24,176232,82,0.0842,0.837,0.717,0.0,0.149,-7.749,0.0822,94.984,0.494,4,5,0,spotify:track:29m79w9xPMH4YCD6r8JSmV
+Fate,Not by Chance,AP Dhillon,2020-12-23,170666,63,0.173,0.632,0.761,0.579,0.113,-5.958,0.0865,90.006,0.0679,4,4,0,spotify:track:52XpQt2fDLozI4qlhYvWl0
+Majhail,Majhail,AP Dhillon,2020-06-19,175187,66,0.31,0.811,0.844,0.0,0.731,-4.395,0.0898,93.48,0.889,4,8,1,spotify:track:0cpyy8xLYRt1OdlnqPmMnm
+Everybody Hurts,No Name,Sidhu Moose Wala,2022-04-25,173333,73,0.434,0.738,0.599,0.0,0.13,-7.102,0.0393,120.052,0.575,5,8,1,spotify:track:1w3exvIgbRFV2ijf6qyWm8
+Brown Munde,Brown Munde,Various Artists,2020-09-18,254400,76,0.223,0.854,0.611,0.0,0.119,-6.26,0.0864,100.024,0.417,4,8,0,spotify:track:58f4twRnbZOOVUhMUpplJ4
+Junoon,Junoon,Mitraz,2022-01-30,191111,69,0.2,0.607,0.593,0.0,0.0833,-7.982,0.0378,107.988,0.211,4,4,0,spotify:track:4roFMBSQp7W4fYVxKMmhA5
+Old Skool,Old Skool,Prem Dhillon,2020-08-05,253636,68,0.198,0.764,0.601,0.0,0.265,-6.999,0.325,87.926,0.905,4,6,1,spotify:track:4V9rQZOGILc4YfBnCDXgTz
+Blame,Blame,Prem Dhillon,2022-04-28,230057,59,0.0216,0.672,0.51,0.0,0.383,-10.164,0.278,90.142,0.624,4,9,0,spotify:track:2WFfHu9sIOtM9ySp2PKaPw
+Chann Diggeya,Chann Diggeya,Saabi Bhinder,2022-04-28,164812,58,0.248,0.649,0.697,0.0,0.142,-6.622,0.134,88.204,0.588,4,8,0,spotify:track:5EypzUfBoxXyDyzIRBzjEW
+Promises,Promises,Saabi Bhinder,2021-12-13,184816,54,0.416,0.678,0.582,1.18e-05,0.109,-6.983,0.0373,78.955,0.162,4,11,0,spotify:track:55OfBElVAZDNBt1oCSungN
+Arrogant,Arrogant,AP Dhillon,2020-01-10,102315,68,0.2,0.751,0.739,0.0,0.0926,-6.977,0.045,95.003,0.405,4,1,0,spotify:track:2jt9VV6QGn0tbwkrr26OO6
+Tu Mera Hogaya Hai,Tadap,Pritam,2021-12-03,309150,46,0.453,0.598,0.814,2.71e-06,0.178,-6.698,0.0667,92.955,0.613,4,11,0,spotify:track:2pmufbyTPOHnniooCPJKod
+US (feat. Raja Kumari),Moosetape,Sidhu Moose Wala,2021-05-15,230068,68,0.663,0.524,0.601,0.0,0.114,-6.112,0.0404,72.048,0.598,4,8,0,spotify:track:36cqlmc53NqlEUqPJdgUOx
+Nai Chaidi,Nai Chaidi,The PropheC,2021-11-26,199017,47,0.0274,0.717,0.617,0.00042,0.0851,-7.06,0.0557,176.038,0.485,4,1,0,spotify:track:5wlH19bXrJY8mE6ZqJBQLU
+Toxic,Toxic,AP Dhillon,2020-10-16,184102,70,0.309,0.802,0.737,0.0,0.0815,-4.306,0.0432,116.955,0.577,4,9,1,spotify:track:4faDlXyZMSxEuxBdd5gDIz
+The Last Ride,The Last Ride,Sidhu Moose Wala,2022-05-15,262247,78,0.0299,0.792,0.647,0.0,0.119,-5.447,0.334,89.029,0.638,4,10,0,spotify:track:7B4uYqxTpTOS1sgxFB9Ann
+295,Moosetape,Sidhu Moose Wala,2021-05-15,270000,79,0.179,0.557,0.794,0.0,0.106,-5.698,0.2,91.366,0.432,4,11,0,spotify:track:5W7DOVGQLTigu09afW7QMT
+Hanji Hanji,Hanji Hanji,Navaan Sandhu,2021-09-07,196521,54,0.173,0.888,0.729,0.0,0.16,-4.418,0.219,137.92,0.766,4,1,1,spotify:track:6PR0z03vrtkqGzE1COpbJ0
+Faraar,Faraar,Gurinder Gill,2019-11-22,130000,67,0.293,0.899,0.529,3.3e-05,0.0914,-8.686,0.218,89.864,0.271,4,7,0,spotify:track:72H6G8v9xyuwdRBaTkoT5G
+Its All About You,Its All About You,Sidhu Moose Wala,2018-02-12,243157,58,0.0964,0.585,0.635,0.0,0.134,-7.219,0.0488,76.089,0.55,4,8,0,spotify:track:0hAMknym1ZPciljhPuX8pl
+Tera Saath,Tera Saath,Talwiinder,2021-08-23,214588,54,0.559,0.419,0.472,0.0,0.108,-8.452,0.319,170.265,0.346,4,7,1,spotify:track:5TnlSZbrojgc8wczZGB7uN
+Golden Waaliyan,Golden Waaliyan,Tejbir,2022-05-04,141710,2,0.376,0.694,0.417,0.0,0.0654,-7.839,0.13,76.028,0.553,4,8,1,spotify:track:2YkY3O8c8PodYQLAeUu4nC
+That's What Love Is,That's What Love Is,Srmn,2021-08-04,262006,42,0.204,0.72,0.575,0.0,0.247,-7.93,0.0451,90.002,0.576,4,5,1,spotify:track:1jgri6RzXQJID0s5y22qp8
+Jaqeen,Jaqeen,Talwiinder,2021-07-23,205075,51,0.414,0.64,0.657,0.0,0.121,-4.498,0.0836,149.98,0.239,4,4,0,spotify:track:1nJy3ZevNvqBOZcBaS7Wnc
+Holiday,Adhi Tape,Garry Sandhu,2021-11-11,173617,53,0.0494,0.845,0.579,1.46e-05,0.211,-7.802,0.18,94.005,0.814,4,7,0,spotify:track:4DEQBh3b9wEtcjGWfbpngQ
+Takeover,Not by Chance,AP Dhillon,2020-12-23,209142,66,0.0711,0.788,0.752,0.0,0.61,-3.823,0.0843,140.032,0.236,4,1,1,spotify:track:5DVnSQ90r2M3gm6XbgTCLp
+Bas,Bas,Jaz Dhami,2022-03-18,150141,56,0.0134,0.87,0.477,0.0,0.281,-9.222,0.0722,100.034,0.729,4,1,0,spotify:track:1NfnyCDpRMTso2ow5fcfTL
+"Pyar Karda - From ""Lover""","Pyar Karda (From ""Lover"")",Jass Manak,2022-05-26,211224,53,0.542,0.579,0.421,0.0,0.105,-5.943,0.0271,98.046,0.506,4,9,0,spotify:track:3Y5h0lvg9eYqkw8VFtddr8
+Impress,8 Chances,Harnoor,2021-12-20,141541,56,0.0456,0.74,0.689,0.0,0.116,-7.175,0.0962,133.113,0.237,4,2,0,spotify:track:1kvnU2nJj0MFzCfvu0guvD
+Ykwim,Ykwim,Karan Aujla,2022-01-18,194857,67,0.0361,0.837,0.575,7.23e-06,0.457,-7.971,0.127,105.015,0.655,4,5,0,spotify:track:6qS40yL7kXVoChI8SSCQIQ
+Priceless,Priceless,Bhalwaan,2021-11-05,107755,65,0.37,0.665,0.572,0.0,0.282,-9.611,0.262,146.9,0.634,4,5,0,spotify:track:7MdX25DW2YXXwCWl8fSHnq
+Hustlin',Hustlin',Gminxr,2020-09-18,165161,62,0.124,0.829,0.472,0.0,0.138,-9.649,0.162,92.99,0.234,4,7,0,spotify:track:79gOr3ck6BoF2v5aOgIMPr
+Black Effect,Black Effect,Jordan Sandhu,2022-01-07,175890,62,0.137,0.676,0.739,0.0,0.233,-5.319,0.159,146.056,0.755,4,4,0,spotify:track:2a7zxjZ1I88Z6sYm0ThuSc
+Hustling,Back Stage to Front Stage,Vicky,2022-02-01,211764,51,0.315,0.686,0.7,0.0,0.15,-4.439,0.224,84.513,0.517,4,0,0,spotify:track:3FqUyuImbY8vJwi7UQaUBQ
+Chosen,Chosen,Sidhu Moose Wala,2019-03-16,264000,61,0.47,0.726,0.809,0.0,0.3,-4.192,0.358,79.969,0.622,4,7,1,spotify:track:4LMQWQqpweFys6elnjBvR6
+Diamond,Diamond,Talwiinder,2021-09-23,207046,47,0.691,0.482,0.511,0.000111,0.353,-8.997,0.163,79.779,0.306,4,9,0,spotify:track:3IsmoNezvkoBAqy4jG49t3
+Gustakhiyan,Gustakhiyan,The Landers,2022-01-19,152727,67,0.257,0.824,0.589,0.0,0.254,-4.961,0.39,88.027,0.565,4,4,0,spotify:track:3X3BiiDYiPVIn5gEpO9HiF
+Mutiyare Ni,Mutiyare Ni,Gippy Grewal,2022-07-12,143195,48,0.466,0.729,0.571,0.00248,0.0776,-7.047,0.034,97.062,0.221,4,6,0,spotify:track:2HggAxPmbLEPlpyo9qov5M
+Taaz,Taaz,Navaan Sandhu,2021-10-10,176153,58,0.0096,0.704,0.572,0.0,0.167,-7.307,0.0865,153.948,0.438,4,8,1,spotify:track:0IasFWRYk3UQyVBvGZlBAZ
+Shawl,Shawl,Simar Dorraha,2022-01-18,266341,51,0.314,0.487,0.691,0.0,0.0769,-5.748,0.142,163.791,0.522,4,9,0,spotify:track:5OaEqwgJiaXoAhwAZxYa6D
+Intro,Waves,Harman Hundal,2022-07-16,53052,36,0.985,0.244,0.317,0.873,0.328,-18.064,0.047,84.731,0.36,1,0,0,spotify:track:4h6dCiCgGdJSf85gvWOZdM
+New Beginnings,Waves,Harman Hundal,2022-07-16,126000,46,0.9,0.527,0.463,0.0,0.102,-9.901,0.334,125.672,0.301,5,7,0,spotify:track:6lWsQNjeEfFhK4qpgDeDj4
+New Beginnings,Waves,Harman Hundal,2022-07-16,126000,46,0.9,0.527,0.463,0.0,0.102,-9.901,0.334,125.672,0.301,5,7,0,spotify:track:6lWsQNjeEfFhK4qpgDeDj4
+Chor,Chor,Ninja,2020-03-09,200167,40,0.794,0.633,0.498,0.0,0.177,-6.059,0.0301,143.968,0.565,4,10,0,spotify:track:3CxgVECKkFffqpTJ9TGN8F
+I Need Love,I Need Love,Harman Hundal,2022-03-04,179052,49,0.0948,0.69,0.489,2.48e-05,0.332,-10.886,0.0323,91.987,0.583,4,2,0,spotify:track:5rDbIqVi3MNmQtmUUiv6IH
+Bekadra,Bekadra,Khan Saab,2016-01-24,285527,48,0.511,0.379,0.72,0.0,0.203,-4.455,0.179,84.668,0.503,4,9,0,spotify:track:6UplDCpEY2hLUCwoTOLlNp
