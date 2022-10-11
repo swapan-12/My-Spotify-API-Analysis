@@ -1,0 +1,35 @@
+﻿CREATE TABLE spotify(
+name VARCHAR(40),
+album VARCHAR(40),
+artist VARCHAR(40),
+release_date date,
+length INT,
+popularity INT,
+acousticness FLOAT,
+danceability FLOAT,
+energy FLOAT,
+instrumentalness FLOAT,
+liveness FLOAT,
+loudness FLOAT,
+speechiness FLOAT,
+tempo FLOAT,
+valence FLOAT,
+time_signature INT,
+key_s INT,
+modes INT ,
+uri VARCHAR(40),
+release_year INT
+)
+
+LOAD DATA LOCAL INFILE '/Users/swapanpreetkaur/Documents/projects/spotify_api_eda/data/workout_Top_Songs.csv'
+INTO TABLE spotify
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+SELECT COUNT(DISTINCT(artist)) unique_artists from spotify
+
+SELECT COUNT(DISTINCT(album)) unique_album from spotify
+
+SELECT COUNT(DISTINCT(name)) unique_songs from spotify
